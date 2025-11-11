@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://terceiraapi-c4rq.onrender.com/produtos';
+const API_BASE_URL = 'http://localhost:8081/produtos';
 
 // Elementos DOM
 const produtoForm = document.getElementById('produtoForm');
